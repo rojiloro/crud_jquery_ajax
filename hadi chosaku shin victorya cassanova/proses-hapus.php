@@ -1,5 +1,3 @@
-
-
 <?php
 // Panggil koneksi database
 require_once "config/database.php";
